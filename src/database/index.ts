@@ -1,0 +1,1 @@
+export { connectDBMongo } from './MongoConnect'
